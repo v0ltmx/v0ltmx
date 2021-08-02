@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi
 
 ![v0lt's github stats](https://github-readme-stats.vercel.app/api?username=v0ltmx&show_icons=true&theme=dark)
 
