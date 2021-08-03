@@ -1,23 +1,13 @@
-### Hi there, ;)
+### Hello world  :earth_americas:;)
     
-    
- <img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif" alt="Walking words" width="250" />
-      
 - I'm focusing on Machine Learn and Front-End Development
 
 - Fun fact: I play games and go to the GYM very often.
-      
-<table border="0">
- <tr>
-    <td>
-      <p align="justify">
-    test code
-      </p>
-   </td>
-
-
-
     
+ <img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif" width="250" />
+      
+
+
   
 <!--
 <div style="display: inline_block"><br>
