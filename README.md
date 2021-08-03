@@ -1,6 +1,10 @@
 ### Hi there, ;)
 
 ![v0lt's github stats](https://github-readme-stats.vercel.app/api?username=v0ltmx&show_icons=true&theme=dark)
+ <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Walking words" height="195" width="380" />
+      
+
+    
   
 <!--
 <div style="display: inline_block"><br>
