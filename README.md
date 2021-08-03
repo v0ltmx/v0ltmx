@@ -1,7 +1,7 @@
   
 <img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="400px" width="400px" align="right">
 
-<h2 align="left"> Hi, I'm Gabriel! Welcome, i appreciate it. . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+<h2 align="left"> Hi, I'm Gabriel! Welcome, i appreciate it. . <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h2>
 
 <h3></h3>
 
