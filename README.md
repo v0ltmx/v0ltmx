@@ -1,14 +1,11 @@
 ### Hello world  :earth_americas:;)
     
-- I'm focusing on Machine Learn and Front-End Development
 
-- Fun fact: I play games and go to the GYM very often.
-    
- <img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif" width="250" />
-      
+ <img src="https://www.webtunix.us/static/images/brain05.gif" height="350em" />  I'm focusing on Machine Learn and Front-End Development
+     
+   
 
 
-  
 <!--
 <div style="display: inline_block"><br>
   <img   height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
