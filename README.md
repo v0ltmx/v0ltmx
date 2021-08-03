@@ -1,9 +1,19 @@
-### Hello world  :earth_americas:;)
-    
+  
+<img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="400px" width="400px" align="right">
 
- <img src="https://www.webtunix.us/static/images/brain05.gif" height="350em" />  I'm focusing on Machine Learn and Front-End Development
-     
-   
+<h2 align="left"> Hi, I'm Gabriel! Welcome, i appreciate it. . <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h2>
+
+<h3></h3>
+
+- <p>© I'm from Brazil</p>
+- <p>I'm focusing on Machine Learn and Front-End Development<br></p>
+- <p>Growth Hacker<br></p>
+- <p>Pentest enthusiastic</p>
+- <p>Making creativity come true</strong><br></p>
+- <p>I play games and go to the GYM very often.</p>
+  
+  
+
 
 
 <!--
