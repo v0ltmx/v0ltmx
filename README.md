@@ -1,9 +1,26 @@
 ### Hi there, ;)
-
-
- <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Walking words" height="195" width="380" /> 
- test code
+    
+    
+ <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Walking words" width="500" />
       
+  - 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...    
+      
+<table border="0">
+ <tr>
+    <td>
+      <p align="justify">
+    test code
+      </p>
+   </td>
+
+
 
     
   
