@@ -1,5 +1,5 @@
   
-<img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="400px" width="400px" align="right">
+<img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="350px" width="350px" align="right">
 
 <h2 align="left"> Hi, I'm Gabriel! Welcome, i appreciate it. . <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h2>
 
@@ -10,7 +10,7 @@
 - <p>Growth Hacker<br></p>
 - <p>Pentest enthusiastic</p>
 - <p>Making creativity come true</strong><br></p>
-- <p>I play games and go to the GYM very often.</p>
+
   
   
 
