@@ -1,7 +1,7 @@
   
 <img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="350px" width="350px" align="right">
 
-<h2 align="left"> Hi, I'm Gabriel! Welcome, i appreciate it <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px"></h2>
+<h2 align="left"> Hi, I'm Gabriel! Welcome!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px"></h2>
 
 <h3></h3>
 
@@ -12,10 +12,6 @@
 - <p>Making creativity come true</strong><br></p>
 
   
-  
-
-
-
 <!--
 <div style="display: inline_block"><br>
   <img   height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
