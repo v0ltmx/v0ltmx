@@ -4,13 +4,11 @@
 <h2 align="left"> Hi, I'm Gabriel! Welcome!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px"></h2>
 
 <h3></h3>
-
-- <p>© I'm from Brazil</p>
+- <p>I'm from Brazil©</p>
 - <p>I'm focusing on Machine Learn and Front-End Development<br></p>
 - <p>Growth Hacker<br></p>
 - <p>Pentest enthusiastic</p>
 - <p>Making creativity come true</strong><br></p>
-
   
 <!--
 <div style="display: inline_block"><br>
@@ -53,5 +51,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-->
+<!--
  ![Snake animation](https://github.com/v0ltmx/v0ltmx/blob/output/github-contribution-grid-snake.svg)
+-->
