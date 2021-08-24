@@ -1,9 +1,10 @@
   
-<img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="250px" width="250px" align="right">
+<img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="350px" width="350px" align="right">
 
 <h2 align="left"> Hi, I'm Gabriel! Welcome!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px"></h2>
 
 <h3></h3>
+
 - <p>I'm from Brazil©</p>
 - <p>I'm focusing on Machine Learn and Front-End Development<br></p>
 - <p>Growth Hacker<br></p>
@@ -26,9 +27,6 @@
   ##
   <a href="https://steamcommunity.com/id/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-
-  
-  
   ##  
   
 <!--
