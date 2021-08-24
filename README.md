@@ -1,5 +1,5 @@
   
-<img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="350px" width="350px" align="right">
+<img align="right" src="https://www.webtunix.us/static/images/brain05.gif" max-width="250px" width="250px" align="right">
 
 <h2 align="left"> Hi, I'm Gabriel! Welcome!<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="10px"></h2>
 
