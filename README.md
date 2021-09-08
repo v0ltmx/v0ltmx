@@ -1,6 +1,6 @@
-  
+<!--  
 <img align="right" src="https://sempreupdate.com.br/wp-content/uploads/2018/07/AggressiveLeanArcticwolf-size_restricted.gif" max-width="390px" width="390px" align="right">
-
+-->
 <h2 align="left"> Hi, I'm Gabriel! Welcome!</h2>
 
 <h3></h3>
