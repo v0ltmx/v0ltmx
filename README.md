@@ -1,16 +1,18 @@
 <!--  
 <img align="right" src="https://sempreupdate.com.br/wp-content/uploads/2018/07/AggressiveLeanArcticwolf-size_restricted.gif" max-width="390px" width="390px" align="right">
 -->
-<h2 align="left"> Hi, I'm Gabriel! Welcome!</h2>
-
+<h3 align="left"> Hi, i'm Gabriel!</h3>
 <h3></h3>
 
+
+-  <p>Growth Hacker<br></p>
+-  <p>Pentest enthusiastic</p>
+
+<!--
 - <p>I'm from Brazil©</p>
 - <p>I'm focusing on Machine Learn and Front-End Development<br></p>
-- <p>Growth Hacker<br></p>
-- <p>Pentest enthusiastic</p>
-- <p>Making creativity come true</strong><br></p>
-  
+-->  
+
 <!--
 <div style="display: inline_block"><br>
   <img   height="30" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -27,12 +29,14 @@
   ##
   <a href="https://steamcommunity.com/id/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  ##  
+  ##
+  ![](https://komarev.com/ghpvc/?username=your-github-v0ltmx)
   
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v0ltmx&layout=compact)](https://github.com/v0ltmx/github-readme-stats)
-![](https://komarev.com/ghpvc/?username=your-github-v0ltmx)    views count
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0ltmx&show_icons=true&theme=radical)
 -->
+
 
 <!--
 **v0ltmx/v0ltmx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
