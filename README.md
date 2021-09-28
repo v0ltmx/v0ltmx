@@ -1,7 +1,7 @@
 
 <img align="right" src="https://devbook.com.br/curso-golang/images/banner.png" max-width="300px" width="300px" align="right">
 
-<h3 align="left"> Hi, i'm Gabriel!</h3>
+<h2 align="left"> Hi there!</h2>
 <h3></h3>
 
 <!-- 
@@ -27,7 +27,7 @@
 <div> 
   -->
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0ltmx&show_icons=true&theme=radical&line_height=20&line_width=20)
-  
+  ## 
   <a href="https://www.twitch.tv/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" max-width="65px" width="65px"></a>
   <a href="https://steamcommunity.com/id/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" max-width="60px" width="60px"></a>
   ![](https://komarev.com/ghpvc/?username=your-github-v0ltmx&color=blueviolet&label=Views)  
