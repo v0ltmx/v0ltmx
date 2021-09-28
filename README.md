@@ -4,9 +4,9 @@
 <h3 align="left"> Hi, i'm Gabriel!</h3>
 <h3></h3>
 
-
+<!-- 
 -  <p>Growth Hacker<br></p>
--  <p>Pentest enthusiastic</p>
+-  <p>Pentest enthusiastic</p> -->
 
 <!--
 - <p>I'm from Brazil©</p>
@@ -29,10 +29,12 @@
   <a href="https://www.twitch.tv/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" max-width="65px" width="65px"></a>
   <a href="https://steamcommunity.com/id/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" max-width="60px" width="60px"></a>
   ![](https://komarev.com/ghpvc/?username=your-github-v0ltmx&color=blueviolet&label=Views)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v0ltmx&repo=AgriculturaInteligente)](https://github.com/anuraghazra/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=v0ltmx&show_icons=true&theme=radical)
 
 
 
+  
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=v0ltmx&repo=AgriculturaInteligente)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 
