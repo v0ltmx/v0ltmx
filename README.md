@@ -1,5 +1,5 @@
 
-<img align="right" src="https://devbook.com.br/curso-golang/images/banner.png" max-width="425px" width="425px" align="right">
+<img align="right" src="https://devbook.com.br/curso-golang/images/banner.png" max-width="355px" width="355px" align="right">
 
 <h2 align="left"> Hi there!</h2>
 <h3></h3>
