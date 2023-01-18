@@ -1,5 +1,5 @@
 
-<img align="right" src="https://devbook.com.br/curso-golang/images/banner.png" max-width="355px" width="355px" align="right">
+<img align="right" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" max-width="755px" width="455px" align="right">
 
 <h2 align="left"> Hi there!</h2>
 <h3></h3>
