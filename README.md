@@ -1,5 +1,5 @@
 
-<img align="right" src="https://sithcomputers.com/wp-content/uploads/2021/02/C-1.gif" max-width="755px" width="455px" align="right">
+<img align="right" src="https://media.tenor.com/500rWqut3sMAAAAC/party-gopher.gif" max-width="655px" width="455px" align="right">
 
 <h2 align="left"> Hi there!</h2>
 <h3></h3>
@@ -26,8 +26,9 @@
 </div>
 <div> 
   -->
+ 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v0ltmx&layout=compact&theme=dracula&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=v0ltmx&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
   <!--
   
