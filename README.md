@@ -37,7 +37,7 @@
   
   
   ## 
-  <a href="https://www.twitch.tv/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" max-width="65px" width="68px"></a>
+<!--   <a href="https://www.twitch.tv/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank" max-width="65px" width="68px"></a> -->
   ![](https://komarev.com/ghpvc/?username=your-github-v0ltmx&color=blueviolet&label=Views)  
 
  <!-- <a href="https://steamcommunity.com/id/v0ltmx" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank" max-width="60px" width="60px"></a> -->
