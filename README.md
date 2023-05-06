@@ -1,5 +1,5 @@
 
-<img align="right" src="https://media.tenor.com/500rWqut3sMAAAAC/party-gopher.gif" max-width="555px" width="355px" align="right">
+<img align="right" src="https://media.tenor.com/500rWqut3sMAAAAC/party-gopher.gif" max-width="455px" width="255px" align="right">
 
 <h2 align="left"> Hi there! </h2>
   
