@@ -8,7 +8,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ltmx&layout=compact&theme=dracula&show_icons=true)"  />
 </p>
  
-<img src="https://github-profile-trophy.vercel.app/?username=v0ltmx&theme=dracula&no-frame=true&no-bg=true&row=1&column=12" width="100%" alt="Trophy" align="middle"  /> <br> 
+<img src="https://github-profile-trophy.vercel.app/?username=v0ltmx&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> 
   
   
   ## 
