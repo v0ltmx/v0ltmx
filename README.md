@@ -1,6 +1,5 @@
 
 <img align="right" src="https://media.tenor.com/500rWqut3sMAAAAC/party-gopher.gif" max-width="255px" width="155px" align="right">
-
 <h2 align="left"> Hi there! </h2>
   
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v0ltmx&theme=dracula)
