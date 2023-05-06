@@ -4,10 +4,6 @@
 
 <p align="left">
   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v0ltmx&theme=dracula"  />
-</p>
-<br> 
-<p align="left">
-  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v0ltmx&theme=dracula"  />
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=v0ltmx&theme=dracula&hide_border=false"  />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v0ltmx&layout=compact&theme=dracula&show_icons=true)"  />
 </p>
