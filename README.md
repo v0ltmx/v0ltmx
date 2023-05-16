@@ -9,8 +9,6 @@
 </p>
  
 <img src="https://github-profile-trophy.vercel.app/?username=v0ltmx&theme=dracula&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  /> <br> 
-  
-  
   ## 
   ![](https://komarev.com/ghpvc/?username=your-github-v0ltmx&color=blueviolet&label=Views)  
 
