@@ -4,7 +4,7 @@
 
 <p align="left">
   
-  **Skills**:   *Java, Javascript, Python, Flask, Kotlin, NextJs, Machine Learning, Pentest.*
+  **Skills**:   *Java, Javascript, Typescript, Python, Flask, Kotlin, NextJs, Machine Learning, Pentest.*
   
 <!--   <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=v0ltmx&theme=dracula"  /> -->
   <img height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=v0ltmx&theme=dracula&hide_border=false"  />
